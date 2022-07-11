@@ -36,8 +36,6 @@ In our country, Covid-19 cases have been on the rise, with new mutations/variant
 </b>
 <p><b> In case you are unable to see the power-bi dynamic visulization report , I have attached images of the visualization that was created in the website</b></p>
 
-## Project Link -Repository URL
-https://github.com/manvithk/Microsoft_futurereadytalent_Covid-19_Statewise_visualization
 ## Project Demo -Deployment URL
 https://black-hill-067e5ca10.azurestaticapps.net
 
